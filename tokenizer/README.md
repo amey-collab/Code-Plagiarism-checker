@@ -1,0 +1,1 @@
+This folder contains tokenizer utilities used for comment stripping, whitespace normalization, and language detection prior to plagiarism analysis.

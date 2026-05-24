@@ -1,0 +1,1 @@
+This folder contains the report builder that assembles scan metadata, score summaries, and segment highlights for frontend display.

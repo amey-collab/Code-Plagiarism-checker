@@ -1,0 +1,1 @@
+This folder contains the similarity engine implementation using LCS, cosine similarity, and N-gram matching to identify copied code patterns.

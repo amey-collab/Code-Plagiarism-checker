@@ -1,0 +1,1 @@
+This folder manages the MongoDB connection using Mongoose and environment configuration for the backend server.

@@ -1,0 +1,1 @@
+This folder stores uploaded code files. It is used by the backend multer upload engine and is intentionally included to hold file uploads during development and testing.

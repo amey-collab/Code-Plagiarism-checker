@@ -1,0 +1,1 @@
+This folder contains the code tokenization and normalization engine used by the plagiarism detector. It converts uploaded or pasted source code into token sequences that can be compared across languages.
